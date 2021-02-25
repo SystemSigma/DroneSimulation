@@ -1,2 +1,1 @@
-# EluxDrone
-Shape Flying For The Better
+# Drone Simulation with Matlab
